@@ -1,6 +1,6 @@
 # mastodon-proof
 
-A Keybase proof of my mastodon accounts: [https://keybase.pub/cygnan/mastodon_proof.html](https://keybase.pub/cygnan/mastodon_proof.html)
+A Keybase proof of my mastodon accounts: [https://keybase.pub/cygnan/don.html](https://keybase.pub/cygnan/don.html)
 
 ## License
 
